@@ -31,4 +31,6 @@
 ---
 
 
-> “Keep learning. Keep building. Let your work speak.”
+> "Dream. Design. Develop. Deliver."
+
+
