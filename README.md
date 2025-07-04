@@ -25,7 +25,7 @@
 
 📧 [Contact via Email](mailto:ketangarg0029@gmail.com)
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ketan-mohan-garg-659a16314/)
-📍 Ghaziabad, Uttar Pradesh  
+📍 Uttar Pradesh  
 
 ---
 
