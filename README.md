@@ -14,9 +14,9 @@
 
 ## 🧠 Skills
 
-- **Languages**: C/C++, Python, Java, HTML  
-- **Core**: Data Structures & Algorithms, OOP, DBMS, Web Development  
-- **Tools**: VS Code, IntelliJ, MySQL, Git, GitHub, Figma, Illustrator  
+- **Languages**: C/C++, Python, Java, Javascript, HTML  
+- **Core**: Data Structures & Algorithms, OOP, DBMS, MERN Stack Development  
+- **Tools**: VS Code, IntelliJ, Git, Github, Postman, MongoDB, MySQL, Git, GitHub, Adobe Illustrator, Figma, Miro
 - **Soft Skills**: Team collaboration, task management, problem-solving
 
 ---
