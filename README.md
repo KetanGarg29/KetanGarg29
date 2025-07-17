@@ -44,19 +44,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" height="40"/>
 </p>
 
----
 
-## 🔍 Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-9ACD32?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT%20Auth-F57C00?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-4CAF50?style=for-the-badge&logo=react&logoColor=white"/>
-</p>
-
----
 
 ## 🔗 Let's Connect
 
