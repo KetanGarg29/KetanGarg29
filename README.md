@@ -42,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40"/>
 </p>
 
 ---
