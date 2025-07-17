@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" height="40" alt="Canva" />
   <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" height="40"/>
 </p>
 
